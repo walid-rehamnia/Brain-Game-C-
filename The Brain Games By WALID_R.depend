@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1554961606 source:c:\users\walid pro_book\desktop\walid resources\prog\the brain games by walid_r\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<effet.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+
